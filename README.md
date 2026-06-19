@@ -7,7 +7,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+##  About Me
 
 -  Passionate about **NLP, Computer Vision, and LLM-based systems**
 -  Final-year **B.Sc. Computer Science (AI & ML)** @ Vishwa Vishwani Institute, Hyderabad *(Expected Sept 2025)*
@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🛠️ Skills & Tech Stack
+##  Skills & Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 NLP Sentiment & Text Classification System *(Major Project)*
 > **Python · BERT · TensorFlow · Scikit-learn · HuggingFace**
@@ -83,15 +83,7 @@ A centralized collection of Python projects including GUI apps, computer vision 
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LAbhilashKumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LAbhilashKumar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
@@ -102,8 +94,4 @@ A centralized collection of Python projects including GUI apps, computer vision 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAbhilashKumar&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
-<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LAbhilashKumar&style=for-the-badge&color=0d1117&labelColor=30363d" />
-</p>
