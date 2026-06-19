@@ -94,4 +94,6 @@ A centralized collection of Python projects including GUI apps, computer vision 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAbhilashKumar&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
-
+<p align="center">
+  <em>* Language stats include forked repositories</em>
+</p>
