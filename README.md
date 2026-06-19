@@ -1,36 +1,85 @@
-<h1 align="center">Hey there 👋, I'm Abhilash</h1>
-<h3 align="center">CS Student | Machine Learning & Computer Vision Enthusiast</h3>
+<h1 align="center">Hey, I'm Abhilash 👋</h1>
+<h3 align="center">AI Developer · ML Engineer · Python Enthusiast</h3>
+
+<p align="center">
+  <em>Final-year B.Sc. CS (AI & ML) student from Hyderabad, building intelligent, user-facing AI products.</em>
+</p>
 
 <br/>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student passionate about **Machine Learning** and **Computer Vision**
-- 🔭 Currently working on projects using **OpenCV** and **Mediapipe**
-- 🌱 Always exploring new ideas at the intersection of AI and real-world applications
-- ⚡ I love building tools with Python that solve practical problems
+- 🤖 Passionate about **NLP, Computer Vision, and LLM-based systems**
+- 🎓 Final-year **B.Sc. Computer Science (AI & ML)** @ Vishwa Vishwani Institute, Hyderabad *(Expected Sept 2025)*
+- 🛠️ Built multimodal AI apps with **voice, gesture, and LLM** capabilities
+- 🌱 Currently exploring **Prompt Engineering**, **local LLM inference (LLaMA)**, and **BERT fine-tuning**
+- 💼 Ex-Intern @ **CodSoft** — Python Developer (Computer Vision & GUI)
+- ⚡ Love turning ML research into real, usable products
 
 <br/>
 
 ## 🛠️ Skills & Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mediapipe-00897B?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**ML & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**NLP & LLMs**
+
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-6E4BEC?style=for-the-badge&logo=meta&logoColor=white)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
+
+**Data & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
 ## 🚀 Projects
 
+### 🔹 NLP Sentiment & Text Classification System *(Major Project)*
+> **Python · BERT · TensorFlow · Scikit-learn · HuggingFace**
+
+End-to-end NLP pipeline for sentiment classification using fine-tuned BERT. Supports multi-task NLP with text generation, intent classification, and emotion detection (positive/negative/neutral) for context-aware AI responses.
+
+---
+
+### 🔹 AI Virtual Assistant with Voice & Gesture Control
+> **Python · OpenCV · MediaPipe · SpeechRecognition · pyttsx3 · LLaMA**
+
+Multimodal AI assistant combining voice commands, real-time hand gesture recognition, and LLaMA-powered conversation. Maps gestures to system actions (e.g., volume control) and supports emotion-aware, audio-based human-computer interaction.
+
+---
+
+### 🔹 Gesture-Based Rock-Paper-Scissors & Face Detection
+> **Python · OpenCV · MediaPipe**
+
+Real-time gesture recognition game using hand landmark classification with live webcam input. Includes a face detection module and an image classifier for visual input categorization.
+
+---
+
 ### 🔹 [Project Hub](https://github.com/LAbhilashKumar/Project_Hub)
-> A centralized hub for all my Python-based projects. Includes tools built with Tkinter, OpenCV, and Mediapipe — ranging from GUI apps to computer vision experiments.
+> **Python · Tkinter · OpenCV · MediaPipe**
+
+A centralized collection of Python projects including GUI apps, computer vision tools, and automation scripts.
 
 <br/>
 
