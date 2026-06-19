@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 Passionate about **NLP, Computer Vision, and LLM-based systems**
-- 🎓 Final-year **B.Sc. Computer Science (AI & ML)** @ Vishwa Vishwani Institute, Hyderabad *(Expected Sept 2025)*
-- 🛠️ Built multimodal AI apps with **voice, gesture, and LLM** capabilities
-- 🌱 Currently exploring **Prompt Engineering**, **local LLM inference (LLaMA)**, and **BERT fine-tuning**
-- 💼 Ex-Intern @ **CodSoft** — Python Developer (Computer Vision & GUI)
-- ⚡ Love turning ML research into real, usable products
+-  Passionate about **NLP, Computer Vision, and LLM-based systems**
+-  Final-year **B.Sc. Computer Science (AI & ML)** @ Vishwa Vishwani Institute, Hyderabad *(Expected Sept 2025)*
+-  Built multimodal AI apps with **voice, gesture, and LLM** capabilities
+-  Currently exploring **Prompt Engineering**, **local LLM inference (LLaMA)**, and **BERT fine-tuning**
+-  Ex-Intern @ **CodSoft** — Python Developer (Computer Vision & GUI)
+-  Love turning ML research into real, usable products
 
 <br/>
 
